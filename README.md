@@ -4,6 +4,8 @@ Quora is a popular question answer platform to share knowledge and enagaging in 
 Utilized Deep learning algorithms to perform paraphrase prediction using Quora Dataset. The project uses Siamese Architecture with two different variants:
 - Siamese Architecture with LSTM model
 - Siamese Architecture with GRU model
+
+GoogleNews-Vectors-negative300 and Glove-6B.100d are the pre-trained word embedding models used along with the deep learning approach. 
 ### Data used in the project is avalilable at : https://quoradata.quora.com/First-Quora-Dataset-Release-Question-Pairs
 
 
