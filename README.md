@@ -5,7 +5,7 @@ Utilized Deep learning algorithms to perform paraphrase prediction using Quora D
 - Siamese Architecture with LSTM model
 - Siamese Architecture with GRU model
 
-GoogleNews-Vectors-negative300 and Glove-6B.100d are the pre-trained word embedding models used along with the deep learning approach. 
+GoogleNews-Vectors-negative300 and Glove-6B.100d are the pre-trained word embedding models used along with the deep learning models. 
 ### Data used in the project is avalilable at : https://quoradata.quora.com/First-Quora-Dataset-Release-Question-Pairs
 
 
